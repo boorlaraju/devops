@@ -23,6 +23,8 @@ public class EqualMeanReduction {
             } else {
                 System.out.println("NO");
             }
+            
+            System.out.println("hello world");
         }
         
         sc.close();
